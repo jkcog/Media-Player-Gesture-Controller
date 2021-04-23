@@ -25,6 +25,7 @@ A tool for using gestures to control the video playback in VLC media player.
 <br />
 
 # Setup
+* Ensure that you have VLC installed on your computer
 * `$ pip install -r requirements.txt`
 * Run main.py
 
@@ -32,7 +33,7 @@ A tool for using gestures to control the video playback in VLC media player.
 <br />
 
 # Usage
-* Click "Browse" to select a video and launch the controller
+* Click "Browse" to select a mp4 video and launch the controller
 * Type "Q" to quit
 
 <br />
