@@ -1,4 +1,4 @@
-# Media Player Gesture Control
+# Media Player Gesture Controller
 Gesture controller for media player with [MediaPipe](https://mediapipe.dev/), [VLC](https://wiki.videolan.org/Python_bindings/) and [OpenCV](https://opencv.org/).
 
 <br />
